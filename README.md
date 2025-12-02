@@ -34,4 +34,4 @@ Se você deseja sugerir suporte para outro site, abra uma *issue* aqui no GitHub
 ## Licença
 
 Este projeto é distribuído sob a licença MIT.  
-Consulte o arquivo [LICENSE]([LICENSE](https://github.com/EasyOnlineSync/Eos-Analysis-Module/blob/main/PRIVACY.md)) para mais detalhes.
+Consulte o arquivo [LICENSE](https://github.com/EasyOnlineSync/Eos-Analysis-Module/blob/main/PRIVACY.md) para mais detalhes.
