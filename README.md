@@ -23,8 +23,8 @@ A extensão é simples, transparente e projetada para dar ao usuário controle t
 
 Atualmente, a extensão funciona nos seguintes sites:
 
-- [Youtube](youtube.com)
-- [AnimesRoll]
+- Youtube
+- AnimesRoll
 
 Mais sites serão adicionados em futuras versões.  
 Se você deseja sugerir suporte para outro site, abra uma *issue* aqui no GitHub.
