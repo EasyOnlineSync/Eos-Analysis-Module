@@ -33,3 +33,39 @@ All notable changes to this extension will be documented here.
 - Icons loaded
 - Hosts loaded
 - No errors, finalized
+
+## v2.0.0 – Monday, December 8, 2025, week 50
+- All plugins loaded and functional
+- New permissions added to the Manifest
+- Bugs fixed
+- Host working correctly
+- Changes to the host, adding file "type" when uploading
+- All files tested and corrected
+- No errors
+
+### New Features
+- **Settings Page (Options Page)**
+  - Interface with tabs: Files, Sites/Plugins, and About.
+  - Save and reset preferences.
+  - Visual feedback when saving or resetting.
+
+- **Language Support (i18n)**
+  - Added translation files for all extension texts.
+  - Labels, buttons, titles, and messages now adapt to the user’s language.
+
+- **File Interception for Native Program Download**
+  - Supported file types:
+    - `.exe`
+    - `.zip`
+    - `.rar`
+    - `.msi`
+    - `.7z`
+    - `.iso`
+    - `.apk`
+    - `.dmg`
+  - Intercepted files are sent to the native program for downloading.
+
+- **New Site Plugins**
+  - **anitube.news**
+  - **animesonlinecc.to**
+  - **xvideos.com**
