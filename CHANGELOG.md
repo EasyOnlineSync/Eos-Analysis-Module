@@ -52,7 +52,15 @@ All notable changes to this extension will be documented here.
 - **Language Support (i18n)**
   - Added translation files for all extension texts.
   - Labels, buttons, titles, and messages now adapt to the user’s language.
-
+  - `de – Deutsch`
+  - `en – English`
+  - `es – Español`
+  - `fr – Français`
+  - `ja – 日本語`
+  - `ko – 한국어`
+  - `pt-BR – Português (Brasil)`
+  - `zh_CN  – 中文 (简体)`
+  - `zh-TW – 中文 (繁體)`
 - **File Interception for Native Program Download**
   - Supported file types:
     - `.exe`
