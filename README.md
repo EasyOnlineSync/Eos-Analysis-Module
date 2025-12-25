@@ -10,7 +10,7 @@ Com apenas um clique, você pode salvar vídeos e arquivos de sites compatíveis
 - 🔒 **Transparência total**: nada acontece sem a sua ação.  
 - 🛡️ **Privacidade garantida**: nenhum dado pessoal é coletado ou compartilhado.  
 - ⚙️ **Controle granular**: escolha quais tipos de arquivos e sites serão interceptados.  
-- 🤝 **Integração com Easy Online Sync**: software auxiliar que gerencia os downloads de forma confiável.  
+- ❤️ **Integração com Easy Online Sync**: software auxiliar que gerencia os downloads de forma confiável.  
 
 ---
 
