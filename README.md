@@ -46,7 +46,7 @@ Para detalhes completos, consulte o arquivo [FULL-PRIVACY-POLICY.md](./FULL-PRIV
 
 ---
 
-## 🤝 Contribuição
+## ❤️ Contribuição
 
 Contribuições são bem-vindas!  
 - Sugira novos sites ou melhorias abrindo uma *issue*.  
