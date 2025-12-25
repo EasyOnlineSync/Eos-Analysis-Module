@@ -28,14 +28,25 @@ Com apenas um clique, você pode salvar vídeos e arquivos de sites compatíveis
 Atualmente, o módulo funciona nos seguintes sites:
 
 - **YouTube**  
-- **AnimesRoll**
-- **Anitube**
-- **XVideos**
-- **AnROLL**
+- **Anitube**  
+- **XVideos**  
+- **AnROLL**  
 - **AnimesOnlineCC**
 
 Mais sites serão adicionados em futuras versões.  
 💡 Quer sugerir suporte para outro site? Abra uma *issue* aqui no GitHub e compartilhe sua ideia.
+
+---
+
+## 📂 Tipos de arquivos suportados
+
+Além de vídeos em sites compatíveis, o módulo também intercepta e redireciona para o Easy Online Sync os seguintes tipos de arquivos:
+
+- **Instaladores**: `.exe`, `.msi`, `.apk`, `.dmg`  
+- **Compactados**: `.zip`, `.rar`, `.7z`  
+- **Imagens de disco**: `.iso`  
+
+Isso garante que você tenha controle total sobre downloads de arquivos comuns e importantes, sem depender do navegador.
 
 ---
 
@@ -62,3 +73,4 @@ Contribuições são bem-vindas!
 
 Este projeto nasceu da necessidade real de ter uma ferramenta confiável e transparente.  
 Criado de forma autodidata, o Eos Analysis Module reflete o compromisso de oferecer ao usuário **liberdade, clareza e confiança** em cada download.
+
