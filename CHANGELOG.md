@@ -77,3 +77,34 @@ All notable changes to this extension will be documented here.
   - **anitube.news**
   - **animesonlinecc.to**
   - **xvideos.com**
+
+---
+
+## v2.1.0 – Thursday, December 25, 2025, week 52 (Coming soon)
+- Stability improvements across all plugins.
+- Enhanced **Options Page**:
+  - Added summaries for file categories (Installers, Compressed, Disk Images).
+  - Improved feedback messages when saving/resetting preferences.
+- **About Section** updated:
+  - New developer text with transparency and origin story.
+  - Added clickable external links (e.g., X profile).
+- **Privacy Section**:
+  - Full privacy policy integrated (`FULL-PRIVACY-POLICY.md`).
+  - Clearer explanation of data handling and transparency.
+- **UI/UX Enhancements**:
+  - Dynamic header title showing extension name + options.
+  - Improved translations for consistency across all supported languages.
+- **Bug Fixes**:
+  - Corrected issues with plugin toggles not saving properly.
+  - Fixed minor layout inconsistencies in the settings page.
+- **Performance**:
+  - Optimized communication with native host when sending file type.
+  - Reduced extension load time.
+
+### New Features
+- **Granular File Control**
+  - Users can now enable/disable interception per file type directly in settings.
+- **Expanded Transparency**
+  - Clear feedback and reset messages localized in all languages.
+- **Developer Section**
+  - Added “About the Developer” with personal story and clickable external link.
