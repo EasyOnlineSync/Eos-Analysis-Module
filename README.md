@@ -29,6 +29,10 @@ Atualmente, o módulo funciona nos seguintes sites:
 
 - **YouTube**  
 - **AnimesRoll**
+- **Anitube**
+- **XVideos**
+- **AnROLL**
+- **AnimesOnlineCC**
 
 Mais sites serão adicionados em futuras versões.  
 💡 Quer sugerir suporte para outro site? Abra uma *issue* aqui no GitHub e compartilhe sua ideia.
