@@ -1,37 +1,60 @@
 # Eos Analysis Module
 
-O **Eos Analysis Module** é uma extensão que adiciona um botão de download a vídeos em sites compatíveis.  
-Com apenas um clique, você pode salvar seus vídeos favoritos no computador de forma prática e segura.  
-
-A extensão é simples, transparente e projetada para dar ao usuário controle total:  
-- Nada acontece sem a sua ação  
-- Nenhum dado pessoal é coletado ou compartilhado  
+O **Eos Analysis Module** é uma extensão de navegador desenvolvida para oferecer **downloads simples, transparentes e sob total controle do usuário**.  
+Com apenas um clique, você pode salvar vídeos e arquivos de sites compatíveis diretamente no seu computador, sem processos ocultos ou coleta de dados.
 
 ---
 
-## Instalação
+## ✨ Diferenciais
 
-1. Baixe a extensão no [Chrome Web Store](https://chromewebstore.google.com/detail/mckhcfhapcceifjnhbgehblphfbpfhcd?utm_source=item-share-cb)
+- 🔒 **Transparência total**: nada acontece sem a sua ação.  
+- 🛡️ **Privacidade garantida**: nenhum dado pessoal é coletado ou compartilhado.  
+- ⚙️ **Controle granular**: escolha quais tipos de arquivos e sites serão interceptados.  
+- 🤝 **Integração com Easy Online Sync**: software auxiliar que gerencia os downloads de forma confiável.  
 
-2. Instale o software auxiliar (necessário para habilitar o download):
-   - Disponível gratuitamente em nosso repositório oficial:  
-     👉 [EasyOnlineSync](https://github.com/EasyOnlineSync)
+---
+
+## 🚀 Instalação
+
+1. Instale a extensão pelo [Chrome Web Store](https://chromewebstore.google.com/detail/mckhcfhapcceifjnhbgehblphfbpfhcd?utm_source=item-share-cb).  
+
+2. Baixe e instale o software auxiliar (necessário para habilitar os downloads):  
+   👉 [EasyOnlineSync](https://github.com/EasyOnlineSync)  
 
 ---
 
 ## 🌐 Sites suportados
 
-Atualmente, a extensão funciona nos seguintes sites:
+Atualmente, o módulo funciona nos seguintes sites:
 
-- Youtube
-- AnimesRoll
+- **YouTube**  
+- **AnimesRoll**
 
 Mais sites serão adicionados em futuras versões.  
-Se você deseja sugerir suporte para outro site, abra uma *issue* aqui no GitHub.
+💡 Quer sugerir suporte para outro site? Abra uma *issue* aqui no GitHub e compartilhe sua ideia.
 
 ---
 
-## Licença
+## 📜 Política de Privacidade
 
-Este projeto é distribuído sob a licença MIT.  
-Consulte o arquivo [LICENSE](https://github.com/EasyOnlineSync/Eos-Analysis-Module/blob/main/PRIVACY.md) para mais detalhes.
+O Eos Analysis Module foi criado com foco em **segurança e transparência**:  
+- Apenas informações técnicas necessárias (URL, título, dados do vídeo/arquivo) são processadas.  
+- Nenhum histórico de navegação, login ou dado pessoal é coletado.  
+- Todo o processo ocorre **somente mediante ação explícita do usuário**.  
+
+Para detalhes completos, consulte o arquivo [FULL-PRIVACY-POLICY.md](./FULL-PRIVACY-POLICY.md).
+
+---
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas!  
+- Sugira novos sites ou melhorias abrindo uma *issue*.  
+- Envie *pull requests* para correções ou novas funcionalidades.  
+
+---
+
+## 📌 Sobre o desenvolvedor
+
+Este projeto nasceu da necessidade real de ter uma ferramenta confiável e transparente.  
+Criado de forma autodidata, o Eos Analysis Module reflete o compromisso de oferecer ao usuário **liberdade, clareza e confiança** em cada download.
