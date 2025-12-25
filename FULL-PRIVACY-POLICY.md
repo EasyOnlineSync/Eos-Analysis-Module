@@ -20,5 +20,5 @@ This process occurs **only through explicit user action**, such as clicking “D
 ## Site Integrations
 Plugins for sites (YouTube, Anitube, AnimesOnlineCC, XVideos, AnRoll, etc.) work only to capture media links and send them to Eos. No additional data about the user or their accounts on these sites is collected.
 
-## ✅ Transparency and Control
+## Transparency and Control
 The user can enable or disable each plugin or file type in the extension’s settings. All actions are visible and configurable by the user, with no hidden processes.
